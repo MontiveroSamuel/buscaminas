@@ -1,0 +1,11 @@
+Cosas para hacer en el proyecto:
+
+
+1- Logica de colocar bombas
+2- Logica de analizar contactos y botones alrededor
+3- eventListener de click izquierdo y click derecho
+4- cuadro de botones/minas
+5- Estetica
+            (por ahora "#" de ctos y "B" de bombas, mas adelante # de color y minas en bombas)
+6- integrar a JavaFX
+7- Dejarlo lindo y bonito en GitHub
